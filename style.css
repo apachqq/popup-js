@@ -1,0 +1,16 @@
+h3 {
+    margin: 0.5em 0;
+}
+
+p {
+    margin: 0.5em 0 2em;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto 0;
+    position: relative;
+    width: 316px;
+    border: 1px solid #ededed;
+}
