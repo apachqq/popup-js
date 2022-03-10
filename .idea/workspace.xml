@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e6bd525d-ebf1-46d5-a45f-52131c22ce6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../popup-js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fourth-vue-project" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -53,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646868783982</updated>
       <workItem from="1646868785461" duration="785000" />
+      <workItem from="1646869591178" duration="558000" />
     </task>
     <servers />
   </component>
@@ -69,12 +69,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="156" key="FileChooserDialogImpl" timestamp="1646868840720">
+    <state x="634" y="156" key="FileChooserDialogImpl" timestamp="1646870152544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="634" y="156" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1646868840720" />
+    <state x="634" y="156" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1646870152544" />
     <state x="233" y="0" key="SettingsEditor" timestamp="1646868834711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
