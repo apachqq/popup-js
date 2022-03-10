@@ -66,4 +66,10 @@ p {
     border: 2px solid #444444;
     color: #444444;
     font-size: 16px;
+    font-family: inherit;
+    line-height: 16px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #ffffff;
 }
