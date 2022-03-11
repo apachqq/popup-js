@@ -84,3 +84,9 @@ p {
     background-color: #444444;
     color: #797979;
 }
+
+.features {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
