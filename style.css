@@ -73,3 +73,8 @@ p {
     text-transform: uppercase;
     background-color: #ffffff;
 }
+
+.card__button:focus {
+    background-color: #444444;
+    color: #ffffff;
+}
