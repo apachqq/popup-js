@@ -74,6 +74,7 @@ p {
     background-color: #ffffff;
 }
 
+.card__button:hover,
 .card__button:focus {
     background-color: #444444;
     color: #ffffff;
