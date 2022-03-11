@@ -79,3 +79,8 @@ p {
     background-color: #444444;
     color: #ffffff;
 }
+
+.card__button:active {
+    background-color: #444444;
+    color: #797979;
+}
