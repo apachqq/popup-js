@@ -94,3 +94,11 @@ p {
 .feature {
     position: relative;
 }
+
+.feature::before {
+    content: "";
+    position: absolute;
+    left: -50px;
+    top: -5px;
+    background-repeat: no-repeat;
+}
