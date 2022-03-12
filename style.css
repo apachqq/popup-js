@@ -117,3 +117,8 @@ p {
     width: 33px;
     height: 33px;
 }
+
+.feature--like::before {
+    width: 33px;
+    height: 28px;
+}
