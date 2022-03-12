@@ -102,3 +102,8 @@ p {
     top: -5px;
     background-repeat: no-repeat;
 }
+
+.feature--eco::before {
+    width: 32px;
+    height: 37px;
+}
