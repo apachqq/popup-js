@@ -36,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../6-vue-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../popup-js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -54,6 +54,7 @@
       <workItem from="1646953105747" duration="311000" />
       <workItem from="1647035992117" duration="119000" />
       <workItem from="1647036202282" duration="365000" />
+      <workItem from="1647387189908" duration="71000" />
     </task>
     <servers />
   </component>
@@ -73,10 +74,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="156" key="FileChooserDialogImpl" timestamp="1647036568162">
+    <state x="634" y="156" key="FileChooserDialogImpl" timestamp="1647387193093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="634" y="156" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1647036568162" />
+    <state x="634" y="156" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1647387193093" />
     <state x="233" y="0" key="SettingsEditor" timestamp="1646868834711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
