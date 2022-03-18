@@ -169,3 +169,11 @@ p {
     background: none;
     border: 0;
 }
+
+.popup__button::after,
+.popup__button::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
