@@ -176,4 +176,7 @@ p {
     position: absolute;
     right: 0;
     top: 20px;
+    width: 26px;
+    height: 6px;
+    margin: -13px -3px;
 }
