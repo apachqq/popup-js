@@ -182,3 +182,7 @@ p {
     color: #bfbfbf;
     background-color: currentColor;
 }
+
+.popup__button::before {
+    transform: rotate(45deg);
+}
