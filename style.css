@@ -179,4 +179,6 @@ p {
     width: 26px;
     height: 6px;
     margin: -13px -3px;
+    color: #bfbfbf;
+    background-color: currentColor;
 }
