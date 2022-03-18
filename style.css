@@ -186,3 +186,7 @@ p {
 .popup__button::before {
     transform: rotate(45deg);
 }
+
+.popup__button::after {
+    transform: rotate(-45deg);
+}
