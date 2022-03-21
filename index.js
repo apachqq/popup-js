@@ -6,3 +6,7 @@ openPopupButton.onclick = function (evt) {
     evt.preventDefault()
     popup.classList.add('popup--open')
 }
+
+closePopupButton.onclick = function () {
+    popup.classList.remove('popup--open')
+}
