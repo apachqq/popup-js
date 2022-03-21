@@ -10,3 +10,7 @@ openPopupButton.onclick = function (evt) {
 closePopupButton.onclick = function () {
     popup.classList.remove('popup--open')
 }
+
+document.addEventListener('keydown', function (evt) {
+
+})
