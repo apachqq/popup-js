@@ -12,5 +12,7 @@ closePopupButton.onclick = function () {
 }
 
 document.addEventListener('keydown', function (evt) {
-
+    if (evt.keyCode === 27) {
+        popup.classList.remove('popup--open')
+    }
 })
